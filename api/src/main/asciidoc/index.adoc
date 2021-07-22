@@ -1,0 +1,44 @@
+= Rabobank Power Of Attorney REST API Docs
+This is an sample REST API request/response generated using unit test for reference.
+
+== POST: create-user
+.request
+include::{snippets}/createUser/http-request.adoc[]
+
+.response
+include::{snippets}/createUser/http-response.adoc[]
+
+== PUT: update-user
+.request
+include::{snippets}/updateUser/http-request.adoc[]
+
+.response
+include::{snippets}/updateUser/http-response.adoc[]
+
+== PUT: update-account
+.request
+include::{snippets}/updateAccount/http-request.adoc[]
+
+.response
+include::{snippets}/updateAccount/http-response.adoc[]
+
+== PUT: update-poa
+.request
+include::{snippets}/updatePoa/http-request.adoc[]
+
+.response
+include::{snippets}/updatePoa/http-response.adoc[]
+
+== GET: get-poas
+.request
+include::{snippets}/getPoas/http-request.adoc[]
+
+.response
+include::{snippets}/getPoas/http-response.adoc[]
+
+== GET: get-user
+.request
+include::{snippets}/getUserById/http-request.adoc[]
+
+.response
+include::{snippets}/getUserById/http-response.adoc[]
