@@ -1,3 +1,7 @@
+## REST API Document
+
+http://localhost:8080/index.html
+
 ## Rabobank Assignment for Authorizations Area
 
 This project contains several premade modules for you to implement your code. We hope this helps you with ´what to put
